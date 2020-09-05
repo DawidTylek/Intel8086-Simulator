@@ -1,0 +1,40 @@
+﻿<Window x:Class="Intel886.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Intel886"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="0,0,0.2,0.2" Background="Aqua">
+            <Label Content="Source" Height="46" Margin="0,0,0.2,0"/>
+            <ComboBox x:Name="Source" MinWidth="200" Height="36" Margin="0,0,0.2,0" RenderTransformOrigin="0.559,0.311"/>
+            <Label Content="Destination" Height="46" Margin="0,0,0.2,0"/>
+            <ComboBox x:Name="Destination" MinWidth="200" Height="36" Margin="0,0,0.2,0"/>
+            <Button Content="MOV" Click="MOV" Height="40" Margin="0,0,0.2,0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Background="Aqua">
+            <Label Content="AX"/>
+            <TextBox x:Name="AX" Height="34" Margin="0,0,0.4,0" Background="Azure"/>
+            <Label Content="BX"/>
+            <TextBox x:Name="BX" Height="34" Margin="0,0,0.4,0" Background="Azure"/>
+            <Label Content="CX"/>
+            <TextBox x:Name="CX" Height="34" Margin="0,0,0.4,0" Background="Azure"/>
+            <Label Content="DX"/>
+            <TextBox x:Name="DX" Height="34" Margin="0,0,0.4,0" Background="Azure"/>
+        </StackPanel>
+        <TextBox x:Name="Console" Grid.Row="1" Grid.ColumnSpan="2" IsEnabled="False" Background="Aqua"/>
+
+    </Grid>
+</Window>

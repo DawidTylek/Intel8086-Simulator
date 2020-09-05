@@ -1,0 +1,14 @@
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\bin\Debug\Intel886.exe.config
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\bin\Debug\Intel886.exe
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\bin\Debug\Intel886.pdb
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel8086_Sim.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\App.g.cs
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886_MarkupCompile.cache
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886_MarkupCompile.lref
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\MainWindow.baml
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886.g.resources
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886.Properties.Resources.resources
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel8086_Sim.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886.exe
+C:\Users\dawid\source\repos\Intel8086 Sim\Intel886\obj\Debug\Intel886.pdb
